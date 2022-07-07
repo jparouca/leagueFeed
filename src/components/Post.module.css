@@ -20,7 +20,7 @@
 
 .content a {
     font-weight: bold;
-    color: var(--green-500);
+    color: var(--gold);
     text-decoration: none;
 }
 .content a:hover {
@@ -97,7 +97,7 @@
     margin-top: 1rem;
     border-radius: 8px;
     border: 0;
-    background: var(--green-500);
+    background: var(--gold);
     transition: background-color 0.1s;
     color: var(--white);
     font-weight: bold;
